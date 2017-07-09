@@ -1,0 +1,23 @@
+﻿<Window x:Class="comparedata.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:comparedata"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Height="300" Width="300">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+                <Button Name="btnCompareFiles"  Content="Compare Files"  Click="btnCompareFiles_Click" Width="150" HorizontalAlignment="Center" Background="#FFB6C1" Margin="30,20,10,0" />
+                <Label Name="status" Margin="10,20,10,0"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+                <Button Name="btnusdp"  Content="Create USDP Files"  Click="btncreateUSDPFiles_Click" Width="150" HorizontalAlignment="Center" Background="#FFB6C1" Margin="30,20,10,0" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+                <Button Name="btnDuplicates"  Content="Remove Duplicate Lines"  Click="btnremoveDuplicates_Click" Width="150" HorizontalAlignment="Center" Background="#FFB6C1" Margin="30,20,10,0" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

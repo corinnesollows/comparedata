@@ -1,0 +1,14 @@
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\bin\Debug\comparedata.exe.config
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\bin\Debug\comparedata.exe
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\bin\Debug\comparedata.pdb
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata.csprojResolveAssemblyReference.cache
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\MainWindow.g.cs
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\App.g.cs
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata_MarkupCompile.cache
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata_MarkupCompile.lref
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\MainWindow.baml
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata.g.resources
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata.Properties.Resources.resources
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata.csproj.GenerateResource.Cache
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata.exe
+c:\users\csollows.sds\documents\visual studio 2015\Projects\comparedata\comparedata\obj\Debug\comparedata.pdb
